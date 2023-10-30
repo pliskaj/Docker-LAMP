@@ -21,7 +21,7 @@ services:
   mariadb:
     image: mariadb:10.11
     environment:
-      MYSQL_ROOT_PASSWORD: testovaci
+      MYSQL_ROOT_PASSWORD: terra
     volumes:
       - mysqldata:/var/lib/mysql
 
