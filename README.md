@@ -22,5 +22,6 @@ lamp
  ┣ www  
  ┃ ┗ index.php  
  ┣ README.md  
- ┗ docker-compose.yaml
+ ┣ docker-compose.yaml
+ ┗ start-docker.sh
 
