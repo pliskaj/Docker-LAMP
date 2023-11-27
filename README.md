@@ -1,5 +1,7 @@
 # Docker-LAMP - Docker set-up for PHP, Apache, MariaDB development.
 *(LAMP  - Linux Apache MySQL (MariaDB) PHP)*
+*This setup allows you to quickly create a development environment for LAMP-based web applications using Docker containers. It's a convenient and portable way to work on web projects in a consistent environment.*
+
 
 This is strictly for Linux, but can be ran on Windows, using [WSL](https://learn.microsoft.com/en-us/windows/wsl/install), but then why use something designed for Linux, when you can use it designed for Windows? :)
   

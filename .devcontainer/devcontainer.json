@@ -1,0 +1,9 @@
+{
+  "name": "Docker LAMP",
+  "dockerComposeFile": "../docker-compose.yaml",  // Specify the relative path to your docker-compose.yml file.
+  "service": "php",
+  "workspaceFolder": "/var/www/html",
+  "settings": {
+    "php.validate.executablePath": "/usr/local/bin/php"
+  }
+}
