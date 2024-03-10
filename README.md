@@ -10,7 +10,7 @@ After installation of Docker run `./start-docker.sh` to set your `MYSQL_ROOT_PAS
 Then put your files in `www/` folder  and run ```docker-compose up -d``` to start building the Docker service up.
 
 
-You can always change the ports and root password by running the script or by doing it manually in docker compose file. (Which is preferred!)
+You can always change the ports and root password by running the script or by doing it manually in docker compose file. (Which is recommended!)
 
 
 
